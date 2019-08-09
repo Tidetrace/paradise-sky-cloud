@@ -19,6 +19,8 @@ npm run build --report
 ```
 ## 网站
 
+> 教程：https://www.yuque.com/chaohen/git/xnmsre
+
 > vue: https://cn.vuejs.org/
 
 > ElemetUi: https://element.eleme.cn/#/zh-CN
